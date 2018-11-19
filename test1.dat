@@ -1,0 +1,1000 @@
+101	citrus_fruit	semi-finished_bread	margarine	ready_soups																			
+102	tropical_fruit	yogurt	coffee																				
+103	whole_milk																						
+104	pip_fruit	yogurt	cream_cheese_	meat_spreads																			
+105	other_vegetables	whole_milk	condensed_milk	long_life_bakery_product																			
+106	whole_milk	butter	yogurt	rice	abrasive_cleaner																		
+107	rolls/buns																						
+108	other_vegetables	UHT-milk	rolls/buns	bottled_beer	liquor_(appetizer)																		
+109	pot_plants																						
+110	whole_milk	cereals																					
+111	tropical_fruit	other_vegetables	white_bread	bottled_water	chocolate																		
+112	citrus_fruit	tropical_fruit	whole_milk	butter	curd	yogurt	flour	bottled_water	dishes														
+113	beef																						
+114	frankfurter	rolls/buns	soda																				
+115	chicken	tropical_fruit																					
+116	butter	sugar	fruit/vegetable_juice	newspapers																			
+117	fruit/vegetable_juice																						
+118	packaged_fruit/vegetables																						
+119	chocolate																						
+120	specialty_bar																						
+121	other_vegetables																						
+122	butter_milk	pastry																					
+123	whole_milk																						
+124	tropical_fruit	cream_cheese_	processed_cheese	detergent	newspapers																		
+125	tropical_fruit	root_vegetables	other_vegetables	frozen_dessert	rolls/buns	flour	sweet_spreads	salty_snack	waffles	candy	bathroom_cleaner												
+126	bottled_water	canned_beer																					
+127	yogurt																						
+128	sausage	rolls/buns	soda	chocolate																			
+129	other_vegetables																						
+130	brown_bread	soda	fruit/vegetable_juice	canned_beer	newspapers	shopping_bags																	
+131	yogurt	beverages	bottled_water	specialty_bar																			
+132	hamburger_meat	other_vegetables	rolls/buns	spices	bottled_water	hygiene_articles	napkins																
+133	root_vegetables	other_vegetables	whole_milk	beverages	sugar																		
+134	pork	berries	other_vegetables	whole_milk	whipped/sour_cream	artif._sweetener	soda	abrasive_cleaner															
+135	beef	grapes	detergent																				
+136	pastry	soda																					
+137	fruit/vegetable_juice																						
+138	canned_beer																						
+139	root_vegetables	other_vegetables	whole_milk	dessert																			
+140	citrus_fruit	zwieback	newspapers																				
+141	sausage	rolls/buns	soda	canned_beer	specialty_bar	shopping_bags																	
+142	tropical_fruit	root_vegetables	whole_milk	yogurt	domestic_eggs	brown_bread	pastry	sugar	cereals	coffee	soda	waffles	candy										
+143	berries	yogurt																					
+144	canned_beer																						
+145	butter_milk	yogurt	cream_cheese_	spread_cheese	rolls/buns	bottled_water	soda	newspapers															
+146	coffee																						
+147	pastry	bottled_water																					
+148	rolls/buns																						
+149	misc._beverages																						
+150	root_vegetables	other_vegetables	butter	curd	whipped/sour_cream	UHT-milk	hard_cheese	rolls/buns	bottled_water	long_life_bakery_product													
+151	sausage	rolls/buns	cat_food	newspapers																			
+152	canned_beer																						
+153	ham	grapes	other_vegetables	whole_milk																			
+154	turkey	tropical_fruit	other_vegetables	curd	domestic_eggs	brown_bread	semi-finished_bread	margarine	baking_powder	fruit/vegetable_juice													
+155	whole_milk	yogurt	processed_cheese	pickled_vegetables	soda																		
+156	whole_milk	curd	yogurt	pastry																			
+157	packaged_fruit/vegetables	brown_bread	canned_beer																				
+158	rolls/buns	oil	bottled_water	chewing_gum	chocolate_marshmallow	hygiene_articles	napkins																
+159	ham	beef	whipped/sour_cream	ice_cream	rolls/buns	cat_food																	
+160	rolls/buns	pastry	sugar																				
+161	other_vegetables	whole_milk	frozen_vegetables	canned_fish	salty_snack	seasonal_products	detergent																
+162	sausage	pastry																					
+163	sausage	beef	whole_milk																				
+164	frankfurter	tropical_fruit	rolls/buns	brown_bread	sugar																		
+165	rolls/buns	pastry	soda																				
+166	whole_milk																						
+167	curd_cheese	coffee																					
+168	red/blush_wine	newspapers																					
+169	sausage	whole_milk	curd																				
+170	tropical_fruit	pip_fruit	berries	whole_milk	frozen_potato_products	rolls/buns	pickled_vegetables	chocolate															
+171	red/blush_wine																						
+172	whole_milk	butter	margarine	specialty_fat	specialty_chocolate	candles	flower_(seeds)																
+173	frankfurter	citrus_fruit	whole_milk	domestic_eggs	oil	sparkling_wine	specialty_chocolate	newspapers															
+174	whole_milk	meat_spreads	soda																				
+175	frozen_potato_products																						
+176	other_vegetables	whole_milk	rolls/buns	sugar																			
+177	citrus_fruit	whole_milk	curd	butter_milk	pastry																		
+178	flour	salt	bottled_water	fruit/vegetable_juice	bottled_beer																		
+179	sugar	bottled_water	soda	bottled_beer																			
+180	frozen_meals	coffee																					
+181	chocolate																						
+182	root_vegetables	whole_milk	frozen_vegetables	domestic_eggs	rolls/buns	oil	margarine	canned_vegetables	fruit/vegetable_juice	bathroom_cleaner													
+183	root_vegetables	onions	hard_cheese	frozen_vegetables																			
+184	herbs	condensed_milk	frozen_vegetables	salt	oil	white_wine	candles																
+185	bottled_water																						
+186	sausage	root_vegetables	onions	yogurt	rolls/buns	brandy	detergent																
+187	coffee	newspapers																					
+188	pork	other_vegetables	whipped/sour_cream																				
+189	berries	yogurt																					
+190	soda																						
+191	berries																						
+192	fruit/vegetable_juice	salty_snack	candles																				
+193	citrus_fruit	butter_milk	yogurt	cream_cheese_																			
+194	pork	hamburger_meat	citrus_fruit	berries	onions	whipped/sour_cream	rice	coffee	chocolate														
+195	detergent																						
+196	grapes	photo/film																					
+197	sausage	sliced_cheese	rolls/buns	brown_bread	fruit/vegetable_juice	canned_beer	red/blush_wine	waffles	shopping_bags														
+198	chicken	hamburger_meat	citrus_fruit	tropical_fruit	root_vegetables	other_vegetables	butter	pasta	oil	detergent													
+199	whole_milk	yogurt	brown_bread																				
+200	citrus_fruit	tropical_fruit																					
+201	soda	misc._beverages																					
+202	sausage	pork	grapes	whole_milk	rolls/buns	pastry	soda	specialty_bar	bathroom_cleaner														
+203	frankfurter	rolls/buns	bottled_water																				
+204	sausage	whole_milk	yogurt	coffee	fruit/vegetable_juice	bottled_beer	softener	napkins	photo/film	shopping_bags													
+205	soda																						
+206	rolls/buns	fruit/vegetable_juice																					
+207	beef	citrus_fruit	berries	root_vegetables	brown_bread	detergent																	
+208	whole_milk	whipped/sour_cream	rolls/buns	soda	waffles	candy	cling_film/bags																
+209	processed_cheese																						
+210	tropical_fruit	pip_fruit																					
+211	frankfurter	sausage	root_vegetables	other_vegetables	rolls/buns	oil	pickled_vegetables	bottled_beer	chewing_gum	dishes													
+212	packaged_fruit/vegetables	bottled_water																					
+213	whole_milk	dessert	frozen_vegetables	rolls/buns	margarine	bottled_water	red/blush_wine	newspapers															
+214	berries	whipped/sour_cream																					
+215	citrus_fruit	berries	UHT-milk	processed_cheese																			
+216	tropical_fruit	whole_milk	yogurt																				
+217	hamburger_meat	whole_milk	frozen_vegetables	rolls/buns	bottled_beer	sparkling_wine																	
+218	hamburger_meat	other_vegetables	whole_milk	frozen_vegetables	domestic_eggs	soda	dishes																
+219	whole_milk	cream_cheese_	soda																				
+220	fish	other_vegetables	pastry	margarine	coffee	long_life_bakery_product	male_cosmetics	shopping_bags															
+221	frankfurter	sausage	long_life_bakery_product	waffles																			
+222	packaged_fruit/vegetables	dessert	semi-finished_bread	canned_beer																			
+223	pastry	soda																					
+224	other_vegetables	red/blush_wine																					
+225	misc._beverages																						
+226	frankfurter	sausage	citrus_fruit	tropical_fruit	pip_fruit	whole_milk	hard_cheese	cream_cheese_	domestic_eggs	rice	sugar	canned_fruit	misc._beverages	fruit/vegetable_juice	hygiene_articles								
+227	sparkling_wine																						
+228	specialty_bar																						
+229	sausage	butter_milk	rolls/buns																				
+230	curd_cheese																						
+231	frankfurter	dessert																					
+232	whole_milk	yogurt	beverages	brown_bread	shopping_bags																		
+233	newspapers																						
+234	berries	soda																					
+235	curd	flour	liquor_(appetizer)																				
+236	tropical_fruit	other_vegetables	coffee																				
+237	soda																						
+238	rolls/buns	Instant_food_products																					
+239	canned_beer																						
+240	canned_beer																						
+241	frankfurter	sausage	whole_milk	rolls/buns	margarine																		
+242	other_vegetables	misc._beverages	canned_beer																				
+243	whole_milk	frozen_vegetables																					
+244	whole_milk																						
+245	citrus_fruit	butter	cream_cheese_	white_bread	oil	margarine	newspapers																
+246	frankfurter	rolls/buns																					
+247	frankfurter	ham	pip_fruit	other_vegetables	whole_milk	soft_cheese	frozen_vegetables	rolls/buns	sugar	baking_powder													
+248	butter_milk	yogurt	honey	soda	detergent																		
+249	hamburger_meat	citrus_fruit	onions	rolls/buns	bottled_water	dental_care																	
+250	pasta	popcorn																					
+251	other_vegetables	whole_milk	meat_spreads	cake_bar	chocolate	shopping_bags																	
+252	sausage	pork	citrus_fruit	dessert	white_bread	dishes	candles																
+253	rolls/buns																						
+254	grapes	other_vegetables	curd	dessert	yogurt	napkins																	
+255	root_vegetables	other_vegetables	whole_milk	yogurt	beverages	soft_cheese	frozen_vegetables	fruit/vegetable_juice	bottled_beer														
+256	coffee	shopping_bags																					
+257	popcorn																						
+258	whole_milk	rolls/buns	sugar	bottled_water	soda																		
+259	tropical_fruit	other_vegetables	packaged_fruit/vegetables	whole_milk	snack_products																		
+260	beef	herbs	flour	cling_film/bags	flower_soil/fertilizer																		
+261	whole_milk	butter	dessert	rolls/buns																			
+262	frankfurter	soda	chewing_gum																				
+263	tropical_fruit	specialty_cheese	bottled_water																				
+264	canned_beer																						
+265	finished_products	other_vegetables	frozen_vegetables	bottled_beer																			
+266	beverages	soda																					
+267	hamburger_meat	root_vegetables	whole_milk																				
+268	whole_milk	pastry	long_life_bakery_product																				
+269	finished_products	white_wine	shopping_bags																				
+270	other_vegetables																						
+271	ham	tropical_fruit	other_vegetables	whole_milk	white_bread	brown_bread	fruit/vegetable_juice	bottled_beer															
+272	other_vegetables																						
+273	curd	butter_milk	cocoa_drinks	salty_snack	popcorn																		
+274	bottled_beer																						
+275	curd	dessert	soda	salty_snack	waffles	cake_bar	chocolate	shopping_bags															
+276	whole_milk	cream_cheese_	cereals	dog_food																			
+277	whole_milk	salt																					
+278	dessert	ice_cream																					
+279	sausage	soft_cheese	coffee																				
+280	other_vegetables	bottled_water	waffles	dishes	shopping_bags																		
+281	ham	whole_milk	rolls/buns																				
+282	other_vegetables	ice_cream																					
+283	other_vegetables	bottled_water																					
+284	soda	bottled_beer	white_wine	prosecco																			
+285	herbs	candy																					
+286	frankfurter	ham	tropical_fruit	pip_fruit	root_vegetables	other_vegetables	whole_milk	butter	curd	yogurt	whipped/sour_cream	soft_cheese	sliced_cheese	cream_cheese_	frozen_meals	frozen_fish	domestic_eggs	white_bread	sugar	cereals	fruit/vegetable_juice	bottled_beer	waffles
+287	rolls/buns	canned_beer																					
+288	curd	cream_cheese_	semi-finished_bread	zwieback	cake_bar	specialty_bar	shopping_bags																
+289	frankfurter	tropical_fruit	whole_milk	spread_cheese	margarine	shopping_bags																	
+290	other_vegetables																						
+291	dog_food																						
+292	specialty_bar																						
+293	curd	salt	liquor_(appetizer)	detergent	shopping_bags																		
+294	frankfurter	rolls/buns																					
+295	soda																						
+296	beef	berries	root_vegetables	whole_milk	dessert	spread_cheese	brown_bread																
+297	canned_beer																						
+298	pork	beef	pip_fruit	herbs	spices																		
+299	frankfurter	citrus_fruit	UHT-milk	margarine	sugar																		
+300	sausage	bottled_beer	liquor_(appetizer)																				
+301	canned_beer																						
+302	specialty_chocolate																						
+303	curd	rolls/buns																					
+304	canned_beer																						
+305	whole_milk	bottled_water	newspapers																				
+306	rolls/buns	chewing_gum																					
+307	pork	root_vegetables	other_vegetables	whole_milk	dishes																		
+308	citrus_fruit	pastry																					
+309	pot_plants																						
+310	rolls/buns	pastry	soda																				
+311	butter	yogurt	bottled_water	soda	make_up_remover	hygiene_articles																	
+312	condensed_milk	sugar	coffee	shopping_bags																			
+313	sausage	other_vegetables	yogurt	soda	shopping_bags																		
+314	whole_milk	beverages	UHT-milk	soda																			
+315	sausage	pork	beef	whole_milk	rolls/buns	margarine																	
+316	beverages																						
+317	beverages	specialty_bar																					
+318	bottled_water	fruit/vegetable_juice																					
+319	newspapers																						
+320	cleaner	female_sanitary_products																					
+321	sausage	soda	newspapers	shopping_bags																			
+322	newspapers																						
+323	sausage	beef	citrus_fruit	other_vegetables	whole_milk	butter_milk	whipped/sour_cream	beverages	hard_cheese	rolls/buns	dish_cleaner	cookware											
+324	misc._beverages	newspapers																					
+325	white_wine																						
+326	sausage	sliced_cheese	rolls/buns	soda	canned_beer	shopping_bags																	
+327	meat	curd	bottled_beer	cake_bar																			
+328	frankfurter	meat	tropical_fruit	onions	oil	baking_powder	tea	cling_film/bags															
+329	ice_cream	rolls/buns	canned_beer																				
+330	canned_beer																						
+331	tropical_fruit	berries	root_vegetables	other_vegetables	bottled_water	shopping_bags																	
+332	meat	citrus_fruit	other_vegetables	curd	dessert	butter_milk	beverages	cream_cheese_	rolls/buns	brown_bread	tea	bottled_water											
+333	whole_milk	mustard	bottled_water																				
+334	sausage	beef	beverages	sliced_cheese	rolls/buns	spices	house_keeping_products	flower_(seeds)															
+335	frankfurter	sausage	root_vegetables	butter	curd	sliced_cheese	rolls/buns	salty_snack	long_life_bakery_product														
+336	meat	other_vegetables	butter	rolls/buns																			
+337	root_vegetables	beverages	Instant_food_products	pickled_vegetables	detergent																		
+338	root_vegetables	herbs	other_vegetables	whole_milk	sliced_cheese	rolls/buns																	
+339	whole_milk	whipped/sour_cream	semi-finished_bread	margarine																			
+340	citrus_fruit	whole_milk	curd	dessert	yogurt	whipped/sour_cream	frozen_dessert	rolls/buns	salt	sugar	cereals	canned_vegetables	canned_fish	skin_care	hygiene_articles	napkins							
+341	citrus_fruit	curd	pastry	margarine	sugar	candy	newspapers																
+342	other_vegetables	whole_milk	bottled_water	soda	misc._beverages	bottled_beer	red/blush_wine	napkins															
+343	citrus_fruit	whole_milk	rolls/buns																				
+344	sausage	oil	hygiene_articles	napkins																			
+345	frankfurter	beef	hamburger_meat	grapes	root_vegetables	whole_milk	butter	frozen_dessert	potato_products	bottled_water	bottled_beer												
+346	hard_cheese	rolls/buns	bottled_water	newspapers																			
+347	cream_cheese_	rolls/buns	soda	chocolate																			
+348	turkey	beef	frozen_vegetables	dishes	photo/film																		
+349	pork	other_vegetables	whipped/sour_cream	rolls/buns	soda	shopping_bags																	
+350	whole_milk	beverages																					
+351	rolls/buns	soda																					
+352	sausage	pip_fruit	whole_milk	curd	yogurt	sliced_cheese	rolls/buns	bottled_water	hygiene_articles														
+353	ice_cream																						
+354	liquor																						
+355	pip_fruit	other_vegetables	fruit/vegetable_juice																				
+356	root_vegetables	other_vegetables	yogurt																				
+357	soda																						
+358	soda																						
+359	sausage	citrus_fruit	tropical_fruit	other_vegetables	whole_milk	yogurt	rolls/buns	bottled_water	soda	chocolate	newspapers												
+360	root_vegetables	whole_milk	pet_care	detergent																			
+361	pork	berries	root_vegetables	other_vegetables	pastry	specialty_bar																	
+362	pork																						
+363	chocolate																						
+364	fruit/vegetable_juice																						
+365	pickled_vegetables	coffee																					
+366	bottled_water																						
+367	frankfurter	sausage	butter	whipped/sour_cream	rolls/buns	margarine	spices																
+368	tropical_fruit	pip_fruit	onions	other_vegetables	whole_milk	domestic_eggs	sugar	soups	tea	soda	hygiene_articles	napkins											
+369	canned_beer																						
+370	root_vegetables																						
+371	meat	citrus_fruit	berries	root_vegetables	whole_milk	soda																	
+372	frankfurter	rolls/buns	bottled_water	fruit/vegetable_juice	hygiene_articles																		
+373	tropical_fruit	margarine	rum																				
+374	tropical_fruit	root_vegetables	herbs	whole_milk	butter_milk	whipped/sour_cream	flour	hygiene_articles															
+375	citrus_fruit	pip_fruit	root_vegetables	other_vegetables	whole_milk	cream_cheese_	domestic_eggs	brown_bread	margarine	baking_powder	waffles												
+376	hamburger_meat	other_vegetables	whole_milk	curd	yogurt	rolls/buns	pastry	semi-finished_bread	margarine	bottled_water	fruit/vegetable_juice												
+377	chicken	pip_fruit	other_vegetables	whole_milk	dessert	yogurt	whipped/sour_cream	rolls/buns	pasta	soda	waffles												
+378	chicken	citrus_fruit	tropical_fruit	root_vegetables	whole_milk	frozen_fish	rolls/buns																
+379	frankfurter	citrus_fruit	onions	other_vegetables	whole_milk	rolls/buns	sugar	soda															
+380	canned_beer																						
+381	turkey	pip_fruit	salad_dressing	pastry																			
+382	packaged_fruit/vegetables	whole_milk	curd	yogurt	domestic_eggs	brown_bread	mustard	pickled_vegetables	bottled_water	misc._beverages													
+383	pasta																						
+384	citrus_fruit	tropical_fruit																					
+385	sausage	whole_milk	yogurt	rolls/buns	brown_bread	pot_plants																	
+386	whole_milk	frozen_meals	pastry	fruit/vegetable_juice	waffles																		
+387	canned_beer																						
+388	citrus_fruit	sugar	sauces																				
+389	liquor_(appetizer)																						
+390	citrus_fruit	other_vegetables	rolls/buns	salty_snack	shopping_bags																		
+391	sausage																						
+392	chicken	other_vegetables	whole_milk	vinegar	oil	bottled_water	canned_beer	napkins	newspapers														
+393	hamburger_meat	root_vegetables	other_vegetables	whole_milk	yogurt	whipped/sour_cream	specialty_cheese	flour	margarine														
+394	sausage	pork	other_vegetables	dessert	yogurt	oil	soda																
+395	beef	berries	root_vegetables	whole_milk	whipped/sour_cream	abrasive_cleaner																	
+396	citrus_fruit	packaged_fruit/vegetables	yogurt	bottled_water																			
+397	UHT-milk	coffee																					
+398	candy																						
+399	newspapers																						
+400	beef	citrus_fruit	other_vegetables	yogurt																			
+401	sausage	rolls/buns																					
+402	frankfurter	beef	root_vegetables	curd	dessert	yogurt	soft_cheese	rolls/buns	mustard	pickled_vegetables	canned_beer	hygiene_articles	napkins										
+403	canned_beer																						
+404	bottled_beer																						
+405	onions	soda	chewing_gum	chocolate	newspapers																		
+406	tropical_fruit	packaged_fruit/vegetables	cream_cheese_	white_bread	candy																		
+407	bottled_water	white_wine																					
+408	beef	white_bread	pastry	pasta	soap																		
+409	sausage	chicken	tropical_fruit	root_vegetables	whole_milk	yogurt	candy	abrasive_cleaner	cleaner														
+410	hair_spray																						
+411	chicken	whole_milk	spices	long_life_bakery_product	shopping_bags																		
+412	pork	citrus_fruit	brown_bread	pastry	sugar	cat_food																	
+413	ice_cream																						
+414	meat	hard_cheese	bottled_beer																				
+415	other_vegetables	yogurt	brown_bread	instant_coffee																			
+416	bottled_water	cake_bar																					
+417	tropical_fruit	soda	salty_snack																				
+418	photo/film																						
+419	sausage	citrus_fruit	yogurt	coffee	soda	canned_beer	dishes																
+420	grapes	root_vegetables																					
+421	domestic_eggs	brown_bread	photo/film																				
+422	rolls/buns	canned_fish	canned_beer																				
+423	tropical_fruit	whole_milk																					
+424	chicken																						
+425	frankfurter	other_vegetables	yogurt	brown_bread	bottled_water																		
+426	berries	root_vegetables	other_vegetables	curd	butter_milk	cream_cheese_	roll_products_	margarine	misc._beverages	specialty_chocolate	detergent												
+427	margarine	hygiene_articles																					
+428	tropical_fruit	yogurt	rolls/buns	soda	shopping_bags																		
+429	ham	other_vegetables	whipped/sour_cream	hard_cheese	rolls/buns	soda	misc._beverages	chocolate	candy														
+430	hamburger_meat	white_bread	salty_snack																				
+431	yogurt	mayonnaise	rolls/buns	soda	napkins																		
+432	soda	specialty_chocolate																					
+433	yogurt																						
+434	soda																						
+435	bottled_water																						
+436	sausage	meat	hamburger_meat	rubbing_alcohol																			
+437	citrus_fruit	pip_fruit	beverages	hard_cheese	pet_care	soda	fruit/vegetable_juice	waffles															
+438	shopping_bags																						
+439	newspapers																						
+440	frankfurter	other_vegetables	whole_milk	curd	frozen_potato_products	zwieback	specialty_bar	dish_cleaner															
+441	sausage	citrus_fruit	whole_milk	canned_beer																			
+442	frankfurter	rolls/buns																					
+443	salt	salty_snack	cookware																				
+444	oil																						
+445	curd	beverages	cream_cheese_	rolls/buns	pastry	soda	cake_bar	chewing_gum															
+446	other_vegetables	butter	specialty_chocolate																				
+447	citrus_fruit																						
+448	frankfurter	whole_milk	butter_milk																				
+449	root_vegetables	whole_milk	butter	processed_cheese	mayonnaise	salty_snack																	
+450	tropical_fruit	whole_milk	frozen_meals	bottled_beer																			
+451	beef	hamburger_meat	pip_fruit																				
+452	berries	whipped/sour_cream	cereals	waffles	shopping_bags																		
+453	canned_beer																						
+454	whipped/sour_cream	canned_beer	red/blush_wine																				
+455	root_vegetables	domestic_eggs	margarine	chocolate_marshmallow	candy																		
+456	whole_milk	soda																					
+457	beef																						
+458	frozen_vegetables																						
+459	rolls/buns	bottled_beer																					
+460	whole_milk	hygiene_articles																					
+461	whole_milk																						
+462	citrus_fruit	whole_milk	curd	soft_cheese																			
+463	pastry	fruit/vegetable_juice																					
+464	frankfurter	sausage	pork	pip_fruit	butter	processed_cheese	white_bread	brown_bread															
+465	tropical_fruit	root_vegetables	whole_milk	whipped/sour_cream	domestic_eggs																		
+466	frankfurter	sausage	root_vegetables	yogurt	whipped/sour_cream	pastry	napkins																
+467	berries	root_vegetables	other_vegetables	packaged_fruit/vegetables	whole_milk	curd	curd_cheese	cat_food	specialty_bar	detergent													
+468	rolls/buns	brown_bread	pastry	coffee	bottled_beer																		
+469	root_vegetables	packaged_fruit/vegetables	curd	dessert	frozen_vegetables	specialty_fat	coffee																
+470	yogurt																						
+471	other_vegetables	bottled_water																					
+472	berries	white_bread																					
+473	berries	coffee																					
+474	other_vegetables	butter_milk	frozen_meals	bottled_water																			
+475	rolls/buns	newspapers																					
+476	ham	citrus_fruit	whole_milk	whipped/sour_cream	rolls/buns	pastry	waffles	hygiene_articles															
+477	whole_milk	frozen_dessert	salty_snack	napkins																			
+478	tropical_fruit	butter_milk	rolls/buns	bottled_water																			
+479	bottled_water																						
+480	butter_milk	yogurt																					
+481	newspapers																						
+482	coffee																						
+483	bottled_beer	liquor																					
+484	onions	butter	whipped/sour_cream	hard_cheese	frozen_vegetables	pasta	specialty_fat	syrup	candy	napkins	cling_film/bags												
+485	hamburger_meat	hard_cheese	frozen_meals	pasta	dog_food	salty_snack	shopping_bags																
+486	sausage	liver_loaf	other_vegetables	cream_cheese_	pastry	soap	shopping_bags																
+487	hard_cheese	pastry	napkins																				
+488	sausage	tropical_fruit	condensed_milk	rolls/buns																			
+489	hamburger_meat																						
+490	onions	whole_milk	beverages	frozen_dessert																			
+491	coffee																						
+492	shopping_bags																						
+493	yogurt	rolls/buns	pastry	bottled_water	soda	shopping_bags																	
+494	soda																						
+495	sliced_cheese																						
+496	sausage	whole_milk	coffee																				
+497	yogurt	chocolate																					
+498	domestic_eggs	rolls/buns	dish_cleaner	hygiene_articles																			
+499	whole_milk																						
+500	meat	other_vegetables	whole_milk	whipped/sour_cream																			
+501	dish_cleaner	bathroom_cleaner	hygiene_articles	napkins																			
+502	other_vegetables	red/blush_wine																					
+503	whole_milk	butter_milk	yogurt	sliced_cheese	rolls/buns	sweet_spreads	coffee	fruit/vegetable_juice	long_life_bakery_product	shopping_bags													
+504	other_vegetables	whole_milk	rolls/buns	Instant_food_products																			
+505	tropical_fruit	other_vegetables																					
+506	baking_powder	bottled_water	salty_snack	chewing_gum																			
+507	specialty_bar																						
+508	ice_cream																						
+509	frankfurter	yogurt																					
+510	canned_beer																						
+511	bottled_water																						
+512	other_vegetables	whole_milk	rolls/buns	margarine	bottled_water	bottled_beer																	
+513	citrus_fruit	tropical_fruit	onions	other_vegetables	shopping_bags																		
+514	sausage	ham	hamburger_meat	whole_milk	soda	softener	newspapers																
+515	domestic_eggs	rolls/buns	specialty_bar	napkins																			
+516	pork	citrus_fruit	tropical_fruit	root_vegetables	other_vegetables	curd	hygiene_articles																
+517	specialty_cheese	frozen_vegetables	coffee	soda	fruit/vegetable_juice	salty_snack																	
+518	pork	citrus_fruit	pip_fruit	yogurt	fruit/vegetable_juice	sparkling_wine																	
+519	beef	berries	whipped/sour_cream	domestic_eggs	rolls/buns																		
+520	other_vegetables	pet_care																					
+521	chicken	yogurt	sliced_cheese	rolls/buns	chewing_gum	dishes																	
+522	soda	chewing_gum																					
+523	whole_milk																						
+524	rolls/buns																						
+525	bottled_beer																						
+526	root_vegetables	pastry	bottled_water	male_cosmetics																			
+527	pastry																						
+528	berries	pet_care	cake_bar	shopping_bags																			
+529	citrus_fruit	tropical_fruit	root_vegetables	yogurt	canned_vegetables	bottled_water	soda	softener															
+530	whole_milk	oil	canned_fruit	fruit/vegetable_juice																			
+531	soda	misc._beverages																					
+532	bottled_water	soda																					
+533	tropical_fruit	other_vegetables	rolls/buns																				
+534	salty_snack																						
+535	bottled_water	canned_beer																					
+536	chocolate																						
+537	citrus_fruit	UHT-milk	cream_cheese_	frozen_vegetables																			
+538	bottled_water	canned_beer	male_cosmetics																				
+539	onions	other_vegetables	pastry	bottled_water	soda	napkins																	
+540	dessert	oil	cat_food	soda																			
+541	beef	other_vegetables	whole_milk	frozen_potato_products	rolls/buns	oil	margarine	coffee	dental_care	hygiene_articles	newspapers												
+542	rolls/buns	zwieback	bottled_water	misc._beverages	bottled_beer	canned_beer	brandy																
+543	beef	tropical_fruit	root_vegetables	onions	other_vegetables	instant_coffee	soda																
+544	soda																						
+545	coffee	hygiene_articles																					
+546	rolls/buns	brown_bread	bottled_water																				
+547	pork	beef	hamburger_meat	other_vegetables	whole_milk	frozen_vegetables	rolls/buns	margarine	shopping_bags														
+548	soda	canned_beer	liquor_(appetizer)	hygiene_articles	napkins	newspapers																	
+549	sausage	ham	other_vegetables	ice_cream	white_bread																		
+550	beef	root_vegetables	other_vegetables	rolls/buns	sugar																		
+551	whole_milk	butter	bottled_water	bottled_beer																			
+552	pork	ice_cream	hygiene_articles	house_keeping_products																			
+553	berries	packaged_fruit/vegetables	whole_milk	ice_cream	fruit/vegetable_juice	salty_snack	specialty_bar																
+554	sausage	other_vegetables	curd	yogurt	whipped/sour_cream	frozen_vegetables	rolls/buns	roll_products_															
+555	bottled_water	misc._beverages	cling_film/bags																				
+556	tropical_fruit	other_vegetables	packaged_fruit/vegetables	whole_milk	hard_cheese	frozen_dessert	rice	bottled_water															
+557	herbs	bottled_water																					
+558	yogurt	rolls/buns																					
+559	Instant_food_products																						
+560	specialty_chocolate																						
+561	coffee																						
+562	bottled_beer	liquor																					
+563	beef	root_vegetables																					
+564	whole_milk	honey	waffles																				
+565	frankfurter	rolls/buns	pastry	snack_products	specialty_bar																		
+566	frankfurter	sausage	liver_loaf	root_vegetables	curd	frozen_vegetables	rolls/buns	semi-finished_bread	hygiene_articles	photo/film													
+567	other_vegetables	whole_milk	cream_cheese_																				
+568	frankfurter	root_vegetables	pickled_vegetables	soda	seasonal_products																		
+569	whole_milk	rolls/buns	newspapers																				
+570	frankfurter	margarine	dental_care																				
+571	other_vegetables	salty_snack																					
+572	bottled_water	shopping_bags																					
+573	pork	onions	whole_milk	butter	rolls/buns	pastry	rum	hygiene_articles															
+574	bottled_water																						
+575	other_vegetables	whipped/sour_cream	specialty_cheese	domestic_eggs																			
+576	hamburger_meat	whole_milk	curd	pasta	canned_beer																		
+577	hamburger_meat	citrus_fruit	other_vegetables																				
+578	shopping_bags																						
+579	whole_milk	cream_cheese_	soda	fruit/vegetable_juice																			
+580	ice_cream																						
+581	pastry	bottled_water																					
+582	ham	pip_fruit	whole_milk	curd	dessert	butter_milk	whipped/sour_cream	sliced_cheese	cream_cheese_	white_bread	coffee	long_life_bakery_product	chocolate	baby_cosmetics									
+583	frankfurter	soda																					
+584	sausage	turkey	beef	root_vegetables	domestic_eggs	rolls/buns	flour	rice	organic_products	misc._beverages	napkins												
+585	bottled_beer																						
+586	bottled_water	bottled_beer	napkins																				
+587	meat	other_vegetables	hard_cheese	frozen_meals	bottled_water	soda																	
+588	dessert	candy																					
+589	other_vegetables	packaged_fruit/vegetables	UHT-milk	bottled_water																			
+590	beverages	rolls/buns	soda																				
+591	ham	mustard	canned_fish																				
+592	specialty_bar																						
+593	brown_bread	soda	salty_snack	shopping_bags																			
+594	whole_milk	cream_cheese_	coffee																				
+595	rolls/buns	pastry	red/blush_wine																				
+596	bottled_beer	nut_snack																					
+597	pet_care	bottled_beer																					
+598	citrus_fruit	other_vegetables	soda																				
+599	pork	other_vegetables	frozen_vegetables	hygiene_articles																			
+600	other_vegetables	shopping_bags																					
+601	white_wine	detergent																					
+602	whole_milk	dessert	bottled_water																				
+603	pip_fruit	white_wine	shopping_bags																				
+604	sugar	soda	bottled_beer																				
+605	tropical_fruit	pip_fruit	rolls/buns	coffee	fruit/vegetable_juice	candy																	
+606	root_vegetables	cream_cheese_	spread_cheese	frozen_dessert	white_bread	bottled_water	soda	misc._beverages	fruit/vegetable_juice	bottled_beer													
+607	soda	misc._beverages																					
+608	whole_milk	curd																					
+609	tropical_fruit	other_vegetables	yogurt	bottled_water	male_cosmetics																		
+610	white_bread	brown_bread																					
+611	brown_bread	sugar	hygiene_articles																				
+612	tropical_fruit	root_vegetables	coffee	bottled_water	red/blush_wine	candy	house_keeping_products	shopping_bags															
+613	domestic_eggs																						
+614	coffee	detergent	hygiene_articles	photo/film																			
+615	soda																						
+616	whole_milk																						
+617	bottled_beer																						
+618	pork	beef	berries	packaged_fruit/vegetables	whole_milk	mayonnaise	frozen_fish	frozen_potato_products	oil	mustard	cat_food	coffee	soda	chocolate	dish_cleaner	napkins	newspapers						
+619	other_vegetables	yogurt																					
+620	yogurt	bottled_water	dishes																				
+621	sparkling_wine																						
+622	bottled_water	candy																					
+623	citrus_fruit	berries	other_vegetables	butter_milk	sugar	fruit/vegetable_juice	hygiene_articles																
+624	hamburger_meat	root_vegetables	other_vegetables	whole_milk	rolls/buns																		
+625	packaged_fruit/vegetables	seasonal_products																					
+626	other_vegetables	margarine																					
+627	soda																						
+628	whole_milk	yogurt	frozen_potato_products	margarine	bottled_water	fruit/vegetable_juice	salty_snack																
+629	herbs	yogurt																					
+630	citrus_fruit	spread_cheese	rolls/buns	soda																			
+631	misc._beverages																						
+632	female_sanitary_products																						
+633	soda																						
+634	tropical_fruit	whole_milk	beverages	white_bread	pasta	shopping_bags																	
+635	soda	female_sanitary_products																					
+636	white_bread	bottled_water	soda	waffles																			
+637	coffee	chewing_gum	chocolate_marshmallow																				
+638	tropical_fruit	root_vegetables	whole_milk	frozen_vegetables	honey	baking_powder	coffee	red/blush_wine	chocolate_marshmallow														
+639	pork	pip_fruit	whole_milk	butter_milk																			
+640	citrus_fruit	bottled_water																					
+641	frankfurter																						
+642	frankfurter	rolls/buns																					
+643	frankfurter	tropical_fruit	pip_fruit	curd	UHT-milk	hard_cheese	domestic_eggs	rolls/buns	hygiene_articles	napkins	shopping_bags												
+644	other_vegetables																						
+645	yogurt	fruit/vegetable_juice	newspapers																				
+646	sausage	whole_milk	yogurt	brown_bread	cereals	bottled_water	soda																
+647	whole_milk																						
+648	pip_fruit	whole_milk	curd	pastry	bottled_water																		
+649	whole_milk																						
+650	root_vegetables	other_vegetables																					
+651	onions	fruit/vegetable_juice																					
+652	specialty_chocolate																						
+653	hamburger_meat	domestic_eggs																					
+654	photo/film																						
+655	rolls/buns	soda	snack_products	newspapers																			
+656	canned_beer																						
+657	canned_beer																						
+658	other_vegetables	curd	frozen_meals	frozen_potato_products	soda	bottled_beer	kitchen_towels	candles															
+659	canned_beer																						
+660	curd	whipped/sour_cream	rolls/buns	zwieback	spices																		
+661	butter	fruit/vegetable_juice	newspapers																				
+662	other_vegetables	whole_milk	yogurt	domestic_eggs	bottled_water	soda																	
+663	whole_milk																						
+664	beef	tropical_fruit	herbs	whole_milk	curd	yogurt	whipped/sour_cream	sliced_cheese															
+665	sausage	rolls/buns																					
+666	soda																						
+667	fruit/vegetable_juice	long_life_bakery_product																					
+668	rolls/buns	coffee	long_life_bakery_product	detergent	shopping_bags																		
+669	pip_fruit	whole_milk	bottled_water	candy																			
+670	frozen_vegetables	bottled_beer	liquor_(appetizer)	chewing_gum	napkins	newspapers																	
+671	beverages																						
+672	hamburger_meat	root_vegetables	other_vegetables	domestic_eggs	roll_products_	oil	margarine	hygiene_articles															
+673	root_vegetables	other_vegetables	whole_milk	yogurt	fruit/vegetable_juice	white_wine																	
+674	canned_beer																						
+675	frozen_vegetables	bottled_beer																					
+676	canned_beer																						
+677	newspapers																						
+678	rolls/buns																						
+679	hamburger_meat	UHT-milk	salty_snack																				
+680	pip_fruit	whole_milk	curd	rum																			
+681	canned_beer																						
+682	grapes	root_vegetables	frozen_vegetables	domestic_eggs	white_wine																		
+683	root_vegetables	packaged_fruit/vegetables	butter	whipped/sour_cream	rolls/buns																		
+684	citrus_fruit	frozen_vegetables	rolls/buns	canned_beer	salty_snack																		
+685	cling_film/bags	pot_plants																					
+686	frankfurter	whole_milk	rolls/buns	margarine	baking_powder	bottled_beer																	
+687	whole_milk	red/blush_wine																					
+688	pork	tropical_fruit	whole_milk	curd	yogurt	hard_cheese	frozen_meals	frozen_dessert	domestic_eggs	cereals	baking_powder	fruit/vegetable_juice	soap										
+689	chicken	pastry																					
+690	sausage	dish_cleaner	dishes																				
+691	specialty_bar																						
+692	whipped/sour_cream	pastry	specialty_bar																				
+693	root_vegetables	brown_bread																					
+694	rolls/buns	soda																					
+695	other_vegetables	bottled_beer	red/blush_wine																				
+696	citrus_fruit	tropical_fruit	berries	root_vegetables	other_vegetables	whole_milk	butter	bottled_water	rubbing_alcohol	hygiene_articles	napkins												
+697	whole_milk	processed_cheese	brown_bread	pastry	soda																		
+698	frankfurter	sausage	tropical_fruit	root_vegetables	whole_milk	yogurt	rolls/buns	pastry	candy														
+699	coffee	long_life_bakery_product																					
+700	ham	rolls/buns	white_wine																				
+701	canned_beer																						
+702	canned_beer																						
+703	canned_beer																						
+704	pip_fruit	whole_milk	canned_fish																				
+705	pork	pip_fruit	other_vegetables	whole_milk	curd	white_bread	sugar	bottled_water	soda														
+706	soap																						
+707	pip_fruit	butter	frozen_meals	pasta	bottled_water																		
+708	beef	hamburger_meat	citrus_fruit	whole_milk	mustard	soap																	
+709	sausage	meat	other_vegetables	whole_milk	yogurt	rolls/buns	soda	bottled_beer	chocolate	newspapers													
+710	frozen_chicken																						
+711	soda																						
+712	tropical_fruit	curd	yogurt	rolls/buns	brown_bread	bottled_water	bottled_beer	seasonal_products															
+713	other_vegetables																						
+714	beef	citrus_fruit	curd	rolls/buns	oil	margarine	specialty_bar	detergent	newspapers														
+715	meat	pork	beef	citrus_fruit	root_vegetables	other_vegetables	whole_milk	pickled_vegetables															
+716	meat	hamburger_meat	root_vegetables	packaged_fruit/vegetables	whole_milk	butter	newspapers																
+717	bottled_water	soda	red/blush_wine	long_life_bakery_product	newspapers																		
+718	rolls/buns																						
+719	pastry	canned_beer																					
+720	pork	whole_milk	pastry	sauces																			
+721	pip_fruit	sliced_cheese	pastry	white_wine	light_bulbs	newspapers																	
+722	beef	citrus_fruit	tropical_fruit	yogurt	UHT-milk	frozen_vegetables	rolls/buns	bottled_water	skin_care														
+723	beef	citrus_fruit	berries	brown_bread	sugar	coffee	kitchen_towels																
+724	rolls/buns	spices																					
+725	citrus_fruit	tropical_fruit	herbs	whole_milk	butter	curd	whipped/sour_cream	frozen_vegetables	canned_vegetables	misc._beverages													
+726	meat	beef	herbs	whole_milk	frozen_dessert	rolls/buns	semi-finished_bread	flour	oil	coffee	pot_plants												
+727	beverages	pastry	bottled_water																				
+728	beef	citrus_fruit	other_vegetables	rolls/buns																			
+729	ham	whole_milk	white_bread	margarine	hair_spray																		
+730	hamburger_meat	whole_milk	oil	ketchup	soups	Instant_food_products	canned_fish	coffee	bottled_beer	hygiene_articles	newspapers												
+731	beef	citrus_fruit	other_vegetables	butter_milk	sliced_cheese	processed_cheese	rolls/buns	margarine	bottled_water	fruit/vegetable_juice													
+732	beef	citrus_fruit	whole_milk	domestic_eggs	rolls/buns	pastry	roll_products_	tea	fruit/vegetable_juice														
+733	root_vegetables	whole_milk	detergent																				
+734	citrus_fruit	tropical_fruit	grapes	other_vegetables	frozen_vegetables	pickled_vegetables	fruit/vegetable_juice	liquor	rum	liquor_(appetizer)	candy	cling_film/bags											
+735	yogurt	bottled_water																					
+736	tropical_fruit	root_vegetables	other_vegetables	whipped/sour_cream	brown_bread	canned_fish	long_life_bakery_product																
+737	frankfurter	root_vegetables	newspapers																				
+738	beef	other_vegetables	whole_milk	brown_bread	pastry	salty_snack	abrasive_cleaner	shopping_bags															
+739	shopping_bags																						
+740	canned_beer																						
+741	rolls/buns	canned_beer																					
+742	other_vegetables	rolls/buns	meat_spreads	bottled_water	soda	misc._beverages	waffles	chocolate	candy														
+743	hamburger_meat	other_vegetables	yogurt	rolls/buns	bottled_water																		
+744	hamburger_meat	citrus_fruit	root_vegetables	rolls/buns	Instant_food_products	canned_fish	bottled_water	soda	fruit/vegetable_juice	napkins													
+745	frankfurter	sausage	domestic_eggs	soda	chewing_gum	shopping_bags																	
+746	bottled_beer																						
+747	tropical_fruit	domestic_eggs	rolls/buns	pastry																			
+748	soda																						
+749	frankfurter	root_vegetables	onions	other_vegetables	white_bread	canned_beer																	
+750	chicken	hamburger_meat	herbs	whipped/sour_cream	soups	soda	canned_beer	dish_cleaner	napkins	cling_film/bags													
+751	coffee	soda																					
+752	whole_milk																						
+753	margarine																						
+754	tropical_fruit	other_vegetables																					
+755	meat	other_vegetables																					
+756	cream_cheese_	bottled_water	canned_beer																				
+757	newspapers																						
+758	rolls/buns	pastry	newspapers																				
+759	citrus_fruit	other_vegetables	whole_milk	curd	yogurt	potato_products	fruit/vegetable_juice	long_life_bakery_product															
+760	whole_milk	rolls/buns	detergent																				
+761	frankfurter	citrus_fruit	butter_milk	UHT-milk	rolls/buns	female_sanitary_products	shopping_bags																
+762	ham	other_vegetables	butter	whipped/sour_cream	sugar	soda																	
+763	frankfurter	citrus_fruit	bottled_beer	salty_snack																			
+764	sausage	onions	curd	yogurt	domestic_eggs	coffee																	
+765	domestic_eggs																						
+766	whole_milk	domestic_eggs	rolls/buns	soda																			
+767	rolls/buns	bottled_beer	newspapers																				
+768	whole_milk	hard_cheese	chocolate_marshmallow																				
+769	sausage	root_vegetables	other_vegetables	rolls/buns	soda																		
+770	curd	butter_milk	yogurt	beverages																			
+771	bottled_water																						
+772	beef																						
+773	frankfurter	hamburger_meat	whole_milk	rolls/buns	potato_products	mustard	coffee	waffles	chocolate_marshmallow	soap	newspapers												
+774	chicken	butter	newspapers																				
+775	sausage	meat	tropical_fruit	pip_fruit	pastry	sugar	coffee	candles	pot_plants														
+776	pork	whole_milk	whipped/sour_cream	beverages																			
+777	yogurt	pastry	coffee																				
+778	whole_milk	sliced_cheese	margarine	cat_food	detergent	dishes	shopping_bags																
+779	frankfurter	ham	whole_milk	yogurt	rolls/buns	pastry	vinegar	sugar	soda	fruit/vegetable_juice	napkins												
+780	beef	whole_milk	brown_bread	specialty_chocolate	newspapers																		
+781	pip_fruit	other_vegetables	butter_milk	cream_cheese_	rolls/buns																		
+782	sausage	whole_milk	rolls/buns	coffee	chocolate																		
+783	pastry	coffee																					
+784	chicken	beef	specialty_chocolate																				
+785	root_vegetables	other_vegetables	whole_milk	sliced_cheese	frozen_vegetables	frozen_fish	frozen_dessert	chocolate															
+786	whole_milk	frozen_meals	rolls/buns																				
+787	detergent																						
+788	rolls/buns	canned_fish																					
+789	house_keeping_products																						
+790	yogurt	salt	jam	sparkling_wine	cleaner																		
+791	tropical_fruit	curd	sliced_cheese	rolls/buns	soda																		
+792	tropical_fruit																						
+793	curd	UHT-milk	artif._sweetener	dental_care																			
+794	beef	berries	onions	rolls/buns																			
+795	whole_milk	brown_bread	pasta	margarine	bottled_water	napkins	newspapers																
+796	pork	UHT-milk	bottled_water	soda	canned_beer																		
+797	other_vegetables	curd	yogurt	curd_cheese	margarine	cleaner	hygiene_articles																
+798	rolls/buns	soda	fruit/vegetable_juice	canned_beer	white_wine	long_life_bakery_product	shopping_bags																
+799	frankfurter	pip_fruit	whole_milk	rolls/buns	roll_products_																		
+800	yogurt	hygiene_articles	newspapers	shopping_bags																			
+801	whole_milk	curd	sliced_cheese	cat_food	coffee																		
+802	bottled_water	candy																					
+803	frankfurter	beef	butter																				
+804	rolls/buns	soda	snack_products	shopping_bags																			
+805	whole_milk	pastry	bottled_water	hygiene_articles																			
+806	rolls/buns																						
+807	chicken	onions	other_vegetables	whole_milk	brown_bread	white_wine	red/blush_wine																
+808	tropical_fruit	onions	whole_milk	butter	dishes																		
+809	sausage	turkey	other_vegetables	yogurt	brown_bread	oil	hygiene_articles	shopping_bags															
+810	sausage	other_vegetables	whole_milk	curd	hard_cheese	soda	candy	newspapers															
+811	frankfurter	citrus_fruit	pastry	margarine	ready_soups	instant_coffee	shopping_bags																
+812	UHT-milk	frozen_dessert	fruit/vegetable_juice	decalcifier	newspapers																		
+813	rolls/buns	newspapers																					
+814	canned_beer																						
+815	yogurt	specialty_bar																					
+816	whipped/sour_cream	specialty_bar																					
+817	rolls/buns	canned_beer																					
+818	rolls/buns																						
+819	beverages	rolls/buns																					
+820	rolls/buns																						
+821	rolls/buns	shopping_bags																					
+822	bottled_beer																						
+823	citrus_fruit	curd	yogurt	sliced_cheese	rolls/buns	oil	bottled_water																
+824	bottled_water	soda																					
+825	pastry																						
+826	domestic_eggs	rolls/buns	pastry	coffee	candles																		
+827	beef	pip_fruit	root_vegetables	rolls/buns	margarine																		
+828	spread_cheese	rolls/buns	bottled_water	newspapers																			
+829	tropical_fruit	spread_cheese	rolls/buns	soda																			
+830	packaged_fruit/vegetables	canned_beer	candles																				
+831	whole_milk	yogurt	bottled_beer	white_wine	salty_snack	napkins																	
+832	meat	beef	other_vegetables	whole_milk	butter	domestic_eggs	rolls/buns																
+833	onions	whole_milk	bottled_beer	liquor_(appetizer)	detergent	dishes																	
+834	frankfurter	grapes	other_vegetables	butter_milk	UHT-milk	brown_bread	margarine	organic_products	bottled_water	soda													
+835	beef	rolls/buns	bottled_beer																				
+836	beef																						
+837	sausage	bottled_beer	liquor_(appetizer)																				
+838	chicken	onions	herbs	hygiene_articles																			
+839	canned_beer																						
+840	sausage	root_vegetables	other_vegetables	whole_milk	bottled_beer	seasonal_products																	
+841	tropical_fruit	whole_milk	curd	yogurt	whipped/sour_cream																		
+842	frankfurter	rolls/buns	soda	abrasive_cleaner	newspapers	flower_(seeds)																	
+843	sausage	tropical_fruit	semi-finished_bread																				
+844	beef	tropical_fruit	root_vegetables	yogurt																			
+845	tropical_fruit	pastry	flour	rum																			
+846	yogurt																						
+847	frankfurter	rolls/buns	mustard																				
+848	bottled_beer																						
+849	grapes	soda																					
+850	beverages	rolls/buns																					
+851	curd	bottled_beer	pot_plants																				
+852	ice_cream	sugar	flower_(seeds)																				
+853	sausage	rolls/buns	soda	canned_beer	shopping_bags																		
+854	other_vegetables																						
+855	dessert	beverages	bottled_water																				
+856	decalcifier																						
+857	canned_beer																						
+858	coffee																						
+859	berries	other_vegetables	whole_milk	whipped/sour_cream																			
+860	pork	tropical_fruit	rolls/buns	semi-finished_bread	bottled_beer	newspapers																	
+861	frankfurter	chicken	pork	citrus_fruit	other_vegetables	whole_milk	butter_milk	whipped/sour_cream	cream_cheese_	frozen_dessert	domestic_eggs	rolls/buns	sugar	baking_powder									
+862	pork	beef	whole_milk	domestic_eggs	bottled_water	bottled_beer	hygiene_articles																
+863	frankfurter	pork	citrus_fruit	root_vegetables	onions	other_vegetables	packaged_fruit/vegetables	cat_food	bottled_water														
+864	frozen_dessert	brandy																					
+865	chicken	other_vegetables	packaged_fruit/vegetables	condensed_milk	frozen_vegetables	fruit/vegetable_juice																	
+866	vinegar	oil																					
+867	rolls/buns	soda	specialty_bar																				
+868	whole_milk																						
+869	pork	root_vegetables	whole_milk	whipped/sour_cream																			
+870	rolls/buns	newspapers																					
+871	grapes	other_vegetables	zwieback	Instant_food_products	dishes																		
+872	frankfurter	citrus_fruit	whipped/sour_cream	cream_cheese_	rolls/buns	baking_powder	seasonal_products	napkins															
+873	finished_products	root_vegetables	packaged_fruit/vegetables	yogurt	specialty_cheese	frozen_vegetables	ice_cream	soda	bottled_beer														
+874	onions	other_vegetables	flour																				
+875	tropical_fruit	whole_milk	rolls/buns																				
+876	other_vegetables	cream_cheese_	tea	chocolate	chocolate_marshmallow																		
+877	ham	turkey	beef	other_vegetables	whole_milk	pot_plants																	
+878	other_vegetables	whole_milk	margarine	bottled_beer																			
+879	curd																						
+880	sausage	beef	other_vegetables																				
+881	canned_beer	liquor_(appetizer)	chewing_gum																				
+882	ham	chicken	citrus_fruit	berries	onions	whole_milk	curd	yogurt	frozen_vegetables	rolls/buns	margarine	soda	liquor_(appetizer)	cake_bar	candy	seasonal_products	skin_care						
+883	packaged_fruit/vegetables	whole_milk	dessert	yogurt	UHT-milk	margarine	bottled_water	long_life_bakery_product															
+884	meat	rolls/buns	soda	specialty_bar																			
+885	whole_milk	dessert																					
+886	canned_beer																						
+887	chicken	UHT-milk	rolls/buns	coffee	long_life_bakery_product	house_keeping_products																	
+888	rolls/buns	red/blush_wine	newspapers																				
+889	pet_care	bottled_water																					
+890	root_vegetables	other_vegetables	soda	shopping_bags																			
+891	pastry																						
+892	frankfurter	hamburger_meat	whole_milk	domestic_eggs	rolls/buns	brown_bread	margarine	bottled_water	flower_(seeds)														
+893	chicken	grapes	whole_milk	whipped/sour_cream	mayonnaise																		
+894	frozen_dessert	semi-finished_bread																					
+895	citrus_fruit	tropical_fruit	grapes	yogurt	rolls/buns	margarine	canned_fruit	bottled_water	soda	misc._beverages	candy	female_sanitary_products	shopping_bags										
+896	sausage	pork	beef	berries	root_vegetables	whole_milk	butter	rolls/buns	cat_food	bottled_water	newspapers												
+897	root_vegetables	onions	other_vegetables	packaged_fruit/vegetables	whole_milk	whipped/sour_cream	frozen_vegetables	rolls/buns	pasta	soups	baking_powder	soda	detergent										
+898	root_vegetables	whole_milk	yogurt	rolls/buns																			
+899	bottled_beer																						
+900	frankfurter	canned_beer																					
+901	root_vegetables	whole_milk	butter	coffee																			
+902	berries	other_vegetables	whipped/sour_cream	UHT-milk	bottled_water	soda	hygiene_articles	newspapers															
+903	hamburger_meat																						
+904	tropical_fruit	whole_milk	rolls/buns	semi-finished_bread	margarine	fruit/vegetable_juice	long_life_bakery_product	newspapers															
+905	frankfurter	pork	beverages	frozen_meals	waffles																		
+906	frankfurter	sausage	frozen_fish	margarine	specialty_bar																		
+907	soda	newspapers																					
+908	ice_cream																						
+909	beef	whole_milk	frozen_vegetables	brown_bread	pastry	coffee																	
+910	whole_milk	pastry	bottled_water	newspapers	photo/film																		
+911	pork	fish	whole_milk	butter	curd	yogurt	whipped/sour_cream	flour	sugar														
+912	whole_milk	chewing_gum																					
+913	bottled_beer																						
+914	pork	grapes	UHT-milk	brown_bread	margarine																		
+915	root_vegetables	pot_plants																					
+916	canned_beer																						
+917	citrus_fruit	root_vegetables	whole_milk	butter	whipped/sour_cream	oil	mustard	bottled_water	bottled_beer														
+918	pip_fruit	herbs	other_vegetables	whole_milk	coffee	female_sanitary_products	hygiene_articles	shopping_bags															
+919	root_vegetables	dessert	yogurt	cream_cheese_	rice																		
+920	tropical_fruit	curd	rolls/buns	organic_products	newspapers																		
+921	beef	root_vegetables	other_vegetables	whole_milk	butter	soft_cheese	hard_cheese	domestic_eggs	pasta	coffee	candles												
+922	chicken	pork	whole_milk	butter	white_bread																		
+923	citrus_fruit	grapes	whole_milk	rolls/buns	pastry	oil	margarine	candles	newspapers														
+924	meat	beef	tropical_fruit	pip_fruit	other_vegetables	whipped/sour_cream	soft_cheese	frozen_meals	margarine	coffee	fruit/vegetable_juice	pot_plants											
+925	cream_cheese_	spread_cheese	rolls/buns																				
+926	citrus_fruit	herbs	whole_milk	bottled_water	bottled_beer	pot_plants																	
+927	specialty_bar																						
+928	meat	other_vegetables	whole_milk	beverages	rolls/buns	margarine	chocolate	napkins	newspapers														
+929	citrus_fruit	tropical_fruit	pip_fruit																				
+930	frankfurter	beef	tropical_fruit	root_vegetables	packaged_fruit/vegetables	whole_milk	frozen_vegetables																
+931	citrus_fruit	whole_milk																					
+932	turkey	root_vegetables	other_vegetables	curd	bottled_beer	specialty_chocolate																	
+933	citrus_fruit	onions	whole_milk	curd	yogurt	rolls/buns	pasta	mustard	dog_food	canned_beer													
+934	sausage	domestic_eggs																					
+935	newspapers																						
+936	whole_milk	yogurt																					
+937	yogurt																						
+938	yogurt																						
+939	bottled_water																						
+940	berries	whole_milk	whipped/sour_cream	domestic_eggs																			
+941	packaged_fruit/vegetables	whole_milk	rolls/buns	pastry																			
+942	frankfurter	soda																					
+943	nuts/prunes	whole_milk	semi-finished_bread	jam	soda	pot_plants	shopping_bags																
+944	citrus_fruit	other_vegetables	packaged_fruit/vegetables	whole_milk	butter	whipped/sour_cream	flour	sugar	coffee	soda	sparkling_wine	dishes											
+945	beef	citrus_fruit	root_vegetables	onions	curd	hard_cheese	rolls/buns	fruit/vegetable_juice															
+946	whole_milk	yogurt	frozen_vegetables	coffee	canned_beer	napkins																	
+947	other_vegetables	whipped/sour_cream																					
+948	beef	other_vegetables																					
+949	fish	berries	other_vegetables	whole_milk	dessert	yogurt	spread_cheese	coffee	white_wine	red/blush_wine													
+950	other_vegetables	whole_milk	curd	frozen_vegetables	domestic_eggs	sugar	instant_coffee	newspapers															
+951	tropical_fruit	berries	root_vegetables	whole_milk	butter	yogurt	whipped/sour_cream	sliced_cheese	hard_cheese	specialty_chocolate	napkins												
+952	coffee																						
+953	sausage	pork	other_vegetables	frozen_fish	rolls/buns	semi-finished_bread	artif._sweetener	ready_soups	bottled_water	hygiene_articles	newspapers												
+954	meat	root_vegetables	whipped/sour_cream	beverages	cream_cheese_	waffles	dishes																
+955	chicken	tropical_fruit	pip_fruit	root_vegetables	other_vegetables	packaged_fruit/vegetables	butter	rolls/buns	margarine	sugar	rum	long_life_bakery_product	abrasive_cleaner										
+956	berries	whole_milk	whipped/sour_cream	margarine	organic_products	fruit/vegetable_juice	shopping_bags																
+957	frozen_meals	misc._beverages																					
+958	whipped/sour_cream																						
+959	beef	root_vegetables	bottled_beer	chocolate	shopping_bags																		
+960	chicken	pork	other_vegetables	whole_milk	whipped/sour_cream	UHT-milk	domestic_eggs	rolls/buns	bottled_water	soda	fruit/vegetable_juice	bottled_beer											
+961	chicken	pork	hamburger_meat	pip_fruit	nuts/prunes	root_vegetables	other_vegetables	whole_milk	spread_cheese	frozen_potato_products	brown_bread	Instant_food_products	soda	fruit/vegetable_juice	shopping_bags								
+962	beef	tropical_fruit	root_vegetables	herbs	other_vegetables	whole_milk	yogurt	hard_cheese	rolls/buns	brown_bread	bottled_water	bottled_beer	salty_snack	shopping_bags									
+963	packaged_fruit/vegetables	pickled_vegetables																					
+964	sugar																						
+965	frankfurter	sausage	beef	root_vegetables	packaged_fruit/vegetables	whole_milk	dessert	yogurt	sliced_cheese	ice_cream	rolls/buns	soda											
+966	berries	frozen_vegetables	pet_care	instant_coffee																			
+967	bottled_water	soda	chewing_gum	napkins																			
+968	sausage	chicken	citrus_fruit	berries	root_vegetables	curd	beverages	abrasive_cleaner															
+969	whole_milk	UHT-milk	domestic_eggs	soda	fruit/vegetable_juice	dishes	newspapers																
+970	ice_cream	rolls/buns																					
+971	frankfurter	citrus_fruit	tropical_fruit	rolls/buns																			
+972	root_vegetables	whole_milk	white_bread	brown_bread	sweet_spreads	dog_food	brandy	shopping_bags															
+973	sausage	rolls/buns	specialty_chocolate																				
+974	sausage	ham	citrus_fruit	tropical_fruit	berries	packaged_fruit/vegetables	whole_milk	whipped/sour_cream	sliced_cheese	pastry	sugar	baking_powder											
+975	beef	root_vegetables	whole_milk	cream_cheese_																			
+976	fruit/vegetable_juice																						
+977	sugar	hygiene_articles																					
+978	berries	whipped/sour_cream																					
+979	yogurt	beverages	coffee																				
+980	pork	beef																					
+981	bottled_beer	shopping_bags																					
+982	curd	butter_milk	yogurt	sliced_cheese	coffee																		
+983	beef	Instant_food_products	canned_beer																				
+984	pork	berries	whipped/sour_cream	beverages	flour	oil	soda	chocolate	newspapers														
+985	white_bread																						
+986	grapes	whole_milk	processed_cheese	rolls/buns	white_bread	fruit/vegetable_juice																	
+987	potato_products	flower_(seeds)																					
+988	root_vegetables	onions	yogurt	rolls/buns	coffee	bottled_water	dishes																
+989	chicken	hamburger_meat	UHT-milk	soda	canned_beer	bathroom_cleaner	newspapers																
+990	chicken	other_vegetables	salt																				
+991	fish	cream_cheese_	coffee																				
+992	canned_beer																						
+993	other_vegetables	whole_milk	frozen_meals	rolls/buns	brown_bread	napkins																	
+994	chicken	pork	whole_milk	frozen_vegetables	brown_bread	vinegar	bottled_beer	red/blush_wine	newspapers														
+995	other_vegetables	misc._beverages																					
+996	tropical_fruit	whole_milk																					
+997	whole_milk	cake_bar	newspapers																				
+998	beef	hamburger_meat	berries	pastry	hygiene_articles																		
+999	sausage	grapes	rolls/buns	soda	salty_snack																		
+1000	whole_milk	rolls/buns	chocolate																				
+1001	rolls/buns	soda																					
+1002	citrus_fruit	tropical_fruit	pip_fruit	other_vegetables																			
+1003	whole_milk	sliced_cheese	domestic_eggs	artif._sweetener	bottled_water	soda	shopping_bags																
+1004	pastry	soda	bottled_beer																				
+1005	tropical_fruit	other_vegetables	whole_milk	yogurt	soft_cheese	hard_cheese	spread_cheese	curd_cheese	frozen_vegetables	ice_cream	pastry	coffee	fruit/vegetable_juice	hygiene_articles									
+1006	sliced_cheese	pastry	newspapers																				
+1007	soda																						
+1008	ham	citrus_fruit	whole_milk	dessert	frozen_meals	coffee	popcorn	shopping_bags															
+1009	salty_snack																						
+1010	whole_milk	curd	cream_cheese_	flour	coffee	bottled_water	misc._beverages	newspapers															
+1011	root_vegetables	whipped/sour_cream																					
+1012	soda	canned_beer	shopping_bags																				
+1013	curd	roll_products_	margarine	bottled_water	canned_beer	white_wine	dish_cleaner																
+1014	bottled_water	soda	fruit/vegetable_juice	bottled_beer	napkins																		
+1015	packaged_fruit/vegetables	pot_plants																					
+1016	tropical_fruit	root_vegetables	frozen_vegetables	ice_cream	bottled_water	cling_film/bags																	
+1017	ham	beef	grapes	yogurt	whipped/sour_cream	domestic_eggs	white_bread	pastry	bottled_water	fruit/vegetable_juice	white_wine	salty_snack	chocolate	newspapers	shopping_bags								
+1018	pork	citrus_fruit	UHT-milk	brown_bread	soda	bottled_beer	canned_beer	long_life_bakery_product															
+1019	beverages	rolls/buns	soda	misc._beverages	liqueur	cake_bar																	
+1020	sausage	rolls/buns	soda																				
+1021	sausage	citrus_fruit	whole_milk	yogurt	rolls/buns	bottled_water	soda	napkins															
+1022	root_vegetables	whole_milk	butter	yogurt	cream_cheese_	frozen_fish	shopping_bags																
+1023	whole_milk	cream_cheese_																					
+1024	frankfurter	turkey	root_vegetables	other_vegetables	yogurt	rolls/buns	pastry	ready_soups															
+1025	soda	shopping_bags																					
+1026	soda	bottled_beer																					
+1027	frankfurter	popcorn																					
+1028	berries	whole_milk	whipped/sour_cream	pickled_vegetables	detergent	newspapers																	
+1029	canned_beer																						
+1030	frankfurter	pork	white_bread	canned_vegetables	soda																		
+1031	frankfurter	hamburger_meat	whole_milk	butter	curd	flour	rice	oil	sugar	mustard	salty_snack	chocolate	chocolate_marshmallow	dish_cleaner	dental_care								
+1032	berries	root_vegetables	whole_milk	beverages	sugar	soups	coffee	shopping_bags															
+1033	frankfurter	rolls/buns																					
+1034	newspapers																						
+1035	frozen_fish	newspapers																					
+1036	tropical_fruit	newspapers																					
+1037	beef	grapes	berries	whole_milk	yogurt	rolls/buns	newspapers	pot_plants															
+1038	rolls/buns	coffee	instant_coffee	salty_snack	specialty_chocolate																		
+1039	specialty_chocolate	pot_plants																					
+1040	sparkling_wine	dish_cleaner																					
+1041	citrus_fruit	napkins	shopping_bags																				
+1042	onions	herbs	bottled_beer																				
+1043	whole_milk	pastry	detergent	candles																			
+1044	photo/film																						
+1045	hamburger_meat																						
+1046	other_vegetables	whole_milk	white_bread	chewing_gum																			
+1047	whole_milk	rolls/buns	shopping_bags																				
+1048	pork	tropical_fruit	grapes	hard_cheese	soda	napkins	shopping_bags																
+1049	tropical_fruit	grapes	berries	other_vegetables	whole_milk	butter	dessert	yogurt	whipped/sour_cream	ice_cream	pastry	salt	baking_powder	bottled_water	misc._beverages	fruit/vegetable_juice	canned_beer	specialty_chocolate	pot_plants				
+1050	chicken	pork	citrus_fruit	other_vegetables	whipped/sour_cream	white_bread	chewing_gum	pot_plants															
+1051	other_vegetables	chewing_gum																					
+1052	sausage	bottled_water	red/blush_wine																				
+1053	whole_milk	whipped/sour_cream	baking_powder																				
+1054	rolls/buns	coffee																					
+1055	hygiene_articles																						
+1056	ice_cream	newspapers																					
+1057	curd	whipped/sour_cream	domestic_eggs	flour	misc._beverages	newspapers																	
+1058	whole_milk	frozen_meals	newspapers																				
+1059	onions	whole_milk	dessert	domestic_eggs	rolls/buns	white_bread	coffee	bottled_water															
+1060	finished_products	organic_sausage	sliced_cheese	white_bread	fruit/vegetable_juice																		
+1061	salt	dog_food	long_life_bakery_product																				
+1062	tropical_fruit	root_vegetables	other_vegetables	domestic_eggs	white_bread	brown_bread	canned_vegetables	soda	fruit/vegetable_juice	rum													
+1063	other_vegetables	whole_milk	yogurt																				
+1064	chocolate																						
+1065	ice_cream																						
+1066	tropical_fruit	oil	cat_food																				
+1067	frankfurter	citrus_fruit	whole_milk	yogurt	sliced_cheese	specialty_cheese	pastry	fruit/vegetable_juice															
+1068	butter	pasta	canned_fish	softener	flower_(seeds)																		
+1069	other_vegetables	butter_milk	frozen_fish	salty_snack																			
+1070	tropical_fruit	pastry	canned_beer	chocolate																			
+1071	citrus_fruit	root_vegetables	packaged_fruit/vegetables	yogurt	sliced_cheese	rolls/buns	white_bread	brown_bread	zwieback														
+1072	UHT-milk	salt	soda	specialty_chocolate	shopping_bags																		
+1073	beef																						
+1074	curd	yogurt	spread_cheese	sugar	canned_vegetables																		
+1075	citrus_fruit	other_vegetables	whole_milk	dessert	yogurt	frozen_vegetables	fruit/vegetable_juice	bottled_beer	salty_snack														
+1076	yogurt	brown_bread	bottled_beer	white_wine																			
+1077	bottled_beer	liquor	red/blush_wine																				
+1078	grapes																						
+1079	pork	other_vegetables	soda																				
+1080	sausage	citrus_fruit	berries	other_vegetables	whole_milk	yogurt	whipped/sour_cream	cream_cheese_	frozen_vegetables	domestic_eggs	pastry	margarine	soups	canned_fish	chocolate	candy	napkins						
+1081	frankfurter	chicken	pork	tropical_fruit	root_vegetables	other_vegetables	yogurt	UHT-milk	mayonnaise	brown_bread	pastry	flour	mustard	coffee	cocoa_drinks	fruit/vegetable_juice	salty_snack	long_life_bakery_product	chocolate	seasonal_products			
+1082	artif._sweetener	soda	photo/film																				
+1083	frankfurter	onions	butter	processed_cheese	rolls/buns	coffee	bottled_beer																
+1084	pip_fruit	root_vegetables	dessert	yogurt	domestic_eggs	shopping_bags																	
+1085	frankfurter	whole_milk	coffee	detergent																			
+1086	whole_milk	newspapers																					
+1087	domestic_eggs	hygiene_articles	photo/film	flower_soil/fertilizer																			
+1088	packaged_fruit/vegetables	dessert	mayonnaise	oil	soda	waffles	chocolate	flower_(seeds)	shopping_bags														
+1089	chicken	other_vegetables	whipped/sour_cream	frozen_vegetables	bottled_water	long_life_bakery_product																	
+1090	pork	whole_milk	curd	yogurt	whipped/sour_cream	cream_cheese_	domestic_eggs	white_bread	sugar	baking_powder	coffee	cocoa_drinks	salty_snack	waffles	candy	napkins							
+1091	citrus_fruit	other_vegetables	whole_milk	curd	yogurt	whipped/sour_cream	cream_cheese_	pastry	vinegar	oil	coffee	long_life_bakery_product	detergent	cleaner	napkins	newspapers							
+1092	light_bulbs																						
+1093	cream_cheese_	margarine	tea																				
+1094	sausage	curd	frozen_meals	domestic_eggs	cake_bar	seasonal_products	detergent	cleaner	house_keeping_products	pot_plants	shopping_bags												
+1095	citrus_fruit	onions																					
+1096	other_vegetables	whipped/sour_cream	roll_products_																				
+1097	chicken	tropical_fruit	pip_fruit	root_vegetables	other_vegetables	whole_milk	butter	yogurt	whipped/sour_cream	hard_cheese	frozen_vegetables	frozen_fish	domestic_eggs	white_bread	rice	specialty_fat	dog_food	bottled_water	fruit/vegetable_juice	long_life_bakery_product	softener	napkins	cling_film/bags
+1098	ice_cream																						
+1099	pork	beef	ice_cream	rolls/buns	newspapers																		
+1100	pork	tropical_fruit	other_vegetables	yogurt	semi-finished_bread	flour	margarine	artif._sweetener	organic_products	chocolate_marshmallow													
